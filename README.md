@@ -81,7 +81,7 @@ Funcionalidade: Adição de produto ao carrinho no site Kabum
 
 Resultado esperado
 
-- Modal de frete ebibe opções corretamente
+- Modal de frete exibe opções corretamente
 - Produto é incluido no carrinho
 - Garantia de 12 meses é aplicada
 -Carrinho exibe o produto selecionado
