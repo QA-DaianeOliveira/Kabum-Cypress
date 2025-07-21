@@ -84,5 +84,5 @@ Resultado esperado
 - Modal de frete exibe opções corretamente
 - Produto é incluido no carrinho
 - Garantia de 12 meses é aplicada
--Carrinho exibe o produto selecionado
+- Carrinho exibe o produto selecionado
 
